@@ -1,12 +1,12 @@
 const songs = [
-    '../sepe2024/O Mago de Pornóis [TubeRipper.com].mp3',
-    '../sepe2024/Absyntho - Meu Ursinho Blau Blau (Áudio Oficial) [TubeRipper.com].mp3',
-    '../sepe2024/Estranha Loucura e2024/Estranha Loucura [TubeRipper.com].mp3',
-    '../sepe2024/José Roberto - Assim Não Pode Ser (Pseudo Video) [TubeRipper.com].mp3',
-    '../sepe2024/Me Dê Motivo [TubeRipper.com].mp3',
-    '../sepe2024/Michael Sullivan e Paulo Massadas - Lady X ( Especial Tv Manchete 1992) Inédito [TubeRipper.com].m4a',
-    '../sepe2024/Ney Matogrosso - Manequim [TubeRipper.com].mp3',
-    '../sepe2024/Sementes Do Amanhã [TubeRipper.com].m4a'
+    'sepe2024/O Mago de Pornóis [TubeRipper.com].mp3',
+    'sepe2024/Absyntho - Meu Ursinho Blau Blau (Áudio Oficial) [TubeRipper.com].mp3',
+    'sepe2024/Estranha Loucura e2024/Estranha Loucura [TubeRipper.com].mp3',
+    'sepe2024/José Roberto - Assim Não Pode Ser (Pseudo Video) [TubeRipper.com].mp3',
+    'sepe2024/Me Dê Motivo [TubeRipper.com].mp3',
+    'sepe2024/Michael Sullivan e Paulo Massadas - Lady X ( Especial Tv Manchete 1992) Inédito [TubeRipper.com].m4a',
+    'sepe2024/Ney Matogrosso - Manequim [TubeRipper.com].mp3',
+    'sepe2024/Sementes Do Amanhã [TubeRipper.com].m4a'
 ];
 
 let isShuffling = false;
