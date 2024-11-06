@@ -22,13 +22,13 @@ function playRandomSong() {
 
 function toggleShuffle() {
     isShuffling = !isShuffling;
-    document.getElementById('shuffleButton').innerText = isShuffling ? "Shuffle On" : "Shuffle Off";
+    document.getElementById('shuffleButton').innerText = isShuffling ? "Embaralhando" : "Ordem Alfabética";
     document.getElementById('shuffleButton').style.backgroundColor = isShuffling ? "#17a2b8" : "#28a745"; 
 }
 
 function toggleRepeat() {
     isRepeating = !isRepeating;
-    document.getElementById('repeatButton').innerText = isRepeating ? "Repeat On" : "Repeat Off";
+    document.getElementById('repeatButton').innerText = isRepeating ? "Repetindo" : "Repetir desligado";
     document.getElementById('repeatButton').style.backgroundColor = isRepeating ? "#ff5722" : "#28a745"; 
 }
 
